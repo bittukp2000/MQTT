@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/org.eclipse.paho.client.mqttv3.test-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-beans-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-beans-4.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-context-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-context-4.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-context-support-4.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-core-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-core-4.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-expression-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-web-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/spring-framework-4.2.5.RELEASE-dist/spring-framework-4.2.5.RELEASE/libs/spring-webmvc-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/jars/junit-4.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/jars/jboss-logging-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/jars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/JavaIntrv/Java/SPRING1/SPRING/softwares/jars/jakarta-commons/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/spring-web-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/spring-web-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/jackson-mapper-asl-1.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/jackson-core-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peterbi/Desktop/IOT/MQTT/nanohttpd-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
